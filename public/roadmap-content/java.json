@@ -699,6 +699,11 @@
         "title": "Understanding Java Exceptions",
         "url": "https://www.youtube.com/watch?v=W-N2ltgU-X4",
         "type": "video"
+      },
+      {
+        "title": "Java Exception Handling",
+        "url": "https://www.youtube.com/watch?v=1XAfapkBQjk",
+        "type": "video"
       }
     ]
   },
@@ -1516,5 +1521,15 @@
         "type": "article"
       }
     ]
+  },
+  "documentation@vRZAtylN3zfHIv3SidYkA.md": {
+    "title": "Documentation",
+    "description": "",
+    "links": []
+  },
+  "javadoc@d3Tsc7KPhtjS0eC4Zbq8B.md": {
+    "title": "Javadoc",
+    "description": "",
+    "links": []
   }
 }
